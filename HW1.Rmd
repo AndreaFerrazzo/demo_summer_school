@@ -1,5 +1,5 @@
 ---
-title: "stat297hw1"
+title: "Homework 1"
 author: "Andrea Ferrazzo"
 date: "2/7/2019"
 output: html_document
